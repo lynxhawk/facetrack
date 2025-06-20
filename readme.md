@@ -5,7 +5,7 @@
 ### 4060ti 8G
 | 模型 | 推理时间 | FPS | mAP50 |
 |------|----------|-----|-------|
-| yolov11n-face.pt | 40ms | 25 | 67.2% |
+| yolov11n-face.pt | 13.9ms | 72 | 67.2% |
 | yolov11s-face.pt | 80ms | 13 | 72.2% |
 | yolov11m-face.pt | 160ms | 6 | 75.2% |
 
